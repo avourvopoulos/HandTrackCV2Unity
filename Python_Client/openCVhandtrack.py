@@ -1,4 +1,5 @@
-# https://github.com/Ankit0822/Hand-Tracking-using-opencv-python-and-mediapipe
+# Adapted from: https://github.com/Ankit0822/Hand-Tracking-using-opencv-python-and-mediapipe
+# Prereqs:
 # pip install opencv-python
 # pip install mediapipe
 
